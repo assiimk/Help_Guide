@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+}
+h1 {  
+    text-align: center;
+    color: black;  
+    margin-left: 20px;  
+}   
